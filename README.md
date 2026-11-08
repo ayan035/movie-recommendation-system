@@ -3,6 +3,14 @@
 
 A Content-Based Movie Recommendation System built using Python, Machine Learning, and NLP. It recommends similar movies based on movie genres and tags using TF-IDF Vectorization and Cosine Similarity.
 
+## 🔗 Project Links
+
+🌐 **Live Demo:**  
+https://movie-recommendation-system-ayan.streamlit.app/
+
+💻 **GitHub Repository:**  
+https://github.com/ayan035/movie-recommendation-system
+
 ## 🚀 Project Overview
 
 This project helps users discover movies similar to their favourite movies. It analyzes movie genres and user-generated tags to identify similarities and generate recommendations.
